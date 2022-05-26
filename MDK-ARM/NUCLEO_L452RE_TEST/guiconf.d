@@ -1,0 +1,9 @@
+nucleo_l452re_test\guiconf.o: ..\STemwin\Src\GUIConf.c
+nucleo_l452re_test\guiconf.o: ..\STemwin\Inc\GUI.h
+nucleo_l452re_test\guiconf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+nucleo_l452re_test\guiconf.o: ..\STemwin\Inc\GUI_ConfDefaults.h
+nucleo_l452re_test\guiconf.o: ..\STemwin\Inc\GUIConf.h
+nucleo_l452re_test\guiconf.o: ..\STemwin\Inc\GUI_Type.h
+nucleo_l452re_test\guiconf.o: ..\STemwin\Inc\LCD.h
+nucleo_l452re_test\guiconf.o: ..\STemwin\Inc\Global.h
+nucleo_l452re_test\guiconf.o: ..\STemwin\Inc\GUI_Version.h

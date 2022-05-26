@@ -1,0 +1,1 @@
+nucleo_l452re_test\startup_stm32l452xx.o: startup_stm32l452xx.s
